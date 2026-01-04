@@ -14,7 +14,7 @@
 
 ### 2025 ზამთარი
 
-- [ლუკა ნაცვლიშვილი | Coffeewood Entertainment] ()
+- [ლუკა ნაცვლიშვილი | Coffeewood Entertainment] (https://htmlpreview.github.io/?https://raw.githubusercontent.com/Luka929-del/Python-Internship-2025/main/Chapter03_Bootstrap/Projects/Luka%20Natsvlishvili/index.html)
 
 ## ინსტრუქცია:
 
